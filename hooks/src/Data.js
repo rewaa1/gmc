@@ -22,7 +22,8 @@ const Movies = [{
   {
     title:"LOKI",
   rating:10,
-  PosterURL: "/piic.jpeg"
+  PosterURL: "/piic.jpeg",
+  description:"In Norse mythology Loki is a cunning trickster who has the ability to change his shape and sex. Although his father is the giant Fárbauti, he is included among the Aesir (a tribe of gods). Loki is represented as the companion of the great gods Odin and Thor."
   },
   ]
   export default Movies;
